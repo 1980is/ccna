@@ -1,0 +1,12 @@
+# Loopback Interfaces #
+- Loopback interfaces are logical interfaces.
+- They allow you to assign an IP address to a router or L3 switch, which is not tied to a physical interface.
+- Because they don't have any physical attributes which can fail, loopback interfaces never go down.
+- Loopbacks are logical so they cannot be physically in the same subnet as other devices, so they are usually assigned a /32 subnet mask to avoid wasting IP addresses.
+- It is best practice to assign a loopback interface to your routers.
+- The loopback is commonly used for traffic that terminates on the router itself.
+- This could be management traffic, Voice over IP, BGP peering etc.
+- This provides redundancy if there are multiple paths to the router.
+- The loopback is also used to identify the router (Router ID) in OSPF. 
+- The loopback interface is usually used for multiple tasks (for) example management and BGP.
+- Multiple loopbacks can be configured. This is not common and only usually done where another, seperate loopback is required for a special use case.
