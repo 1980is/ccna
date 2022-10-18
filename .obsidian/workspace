@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "0806a8aed9be98fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed73beec99c4d49",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "STP/STP.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "134022231191e3dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "104b8883b10ce44b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04a0871f231a86a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8ea54156c7e7ad1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389
+  },
+  "right": {
+    "id": "2015c4101998b787",
+    "type": "split",
+    "children": [
+      {
+        "id": "84b1dda93f2f7740",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe9f3abf17e2798",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STP/STP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7ed73beec99c4d49",
+  "lastOpenFiles": [
+    "STP/STP.md",
+    "NAT/NAT.md",
+    "Routing/Dynamic Routing/Interior Gateway Protocol EIGRP and RIP.md",
+    "Routing/Dynamic Routing/Interior Gateway Protocol Types.md",
+    "Hot Standby Router Protocol - Gateway/Network Gateway Redundancy.md",
+    "EtherChannel/EtherChannel.md",
+    "VLAN/VTP.md",
+    "VLAN/General Info.md",
+    "VLAN/DTP - Dynamic Trunking Protocol.md",
+    "VLAN/Inter-VLAN Routing.md"
+  ]
+}
